@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GitTest", "GitTest\GitTest.vcxproj", "{FFCAF143-94EE-45DA-8EFA-03C3F43D9BC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFCAF143-94EE-45DA-8EFA-03C3F43D9BC5}.Debug|x64.ActiveCfg = Debug|x64
+		{FFCAF143-94EE-45DA-8EFA-03C3F43D9BC5}.Debug|x64.Build.0 = Debug|x64
+		{FFCAF143-94EE-45DA-8EFA-03C3F43D9BC5}.Debug|x86.ActiveCfg = Debug|Win32
+		{FFCAF143-94EE-45DA-8EFA-03C3F43D9BC5}.Debug|x86.Build.0 = Debug|Win32
+		{FFCAF143-94EE-45DA-8EFA-03C3F43D9BC5}.Release|x64.ActiveCfg = Release|x64
+		{FFCAF143-94EE-45DA-8EFA-03C3F43D9BC5}.Release|x64.Build.0 = Release|x64
+		{FFCAF143-94EE-45DA-8EFA-03C3F43D9BC5}.Release|x86.ActiveCfg = Release|Win32
+		{FFCAF143-94EE-45DA-8EFA-03C3F43D9BC5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83FACC78-DE4A-4DA2-B5F3-6D06C53B50B4}
+	EndGlobalSection
+EndGlobal
